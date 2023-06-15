@@ -15,11 +15,11 @@ To set up and run the PDF Chatbot Web Application locally, follow these steps:
 1. Clone this repository to your local machine.
 2. Install the required dependencies by running the following command
 
-  pip install -r requirement.txt
+   pip install -r requirement.txt
   
 3. Run the application using Streamlit
 
-  streamlit run app.py
+   streamlit run app.py
 
 
 ## Contributing
